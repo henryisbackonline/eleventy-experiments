@@ -33,8 +33,12 @@ tell application "Finder"
 end tell
 ```
 
-This script works like this. Firstly, the `tell` command calls the application you specifically name (`Finder`, in this case) to do a specific task, denoted by the indented line below the `tell` command. The task here is to check that a `disk` object exists within Finder that uses that particular name using a simpel `if` statement. If it exists, eject it. If not, move on to the next line.
+This script works like this:
+1. The `tell` command calls the application you specifically name (`Finder`, in this case) to do a specific task, denoted by the indented line below the `tell` command. 
+	- The task here is to check that a `disk` object exists within Finder that uses that particular name using a simpel `if` statement. 
+2. If it exists, eject it. 
+3. If not, move on to the next line.
 
 This little automation can then be saved (Cmd+S) and then compiled (hammer icon). Then, to make it accessable from the menu bar, I put it in the **User Scripts** folder (under `/Users/usr/Library/Scripts`). I had to first change the Script Editor settings to show the Script Menu in the menu bar, but after that, it was smooth sailing. The script itself appears at the bottom of the script menu, and clicking on it makes it run. With this, I can quickly and easily unmount all the external drives that stay attached to my docking station without needing to drag the drive icons on the desktop to the trash.
 
-![/img/script_menu_in_menu_bar.png]
+![A screenshot of the macOS menu bar, showing the script menu on the far left. It looks like a paper scroll shown from a 3/4 angle, curled up to form an "S" shape. The are two main menu items: Open Scripts Folder (with right pointing arrow on the edge of the menu item), and Open Script Editor.app. There is a divider that spans the width of the menu, and below that are 6 folders all with right-pointing arrows: ColourSync, Folder Actions, Printing Scripts, Script Editor Scripts, UI Element Scripts, and VoiceOver. There is another full-width divider, the, at the very bottom of the menu, is my script called "Unmount External Drives". It has the icon of a simple text document - that is, a page with the top right corner folded inward such that it covers the page slightly, and fuzzy lines indicating text on the page.](./img/script_menu_in_menu_bar.png "The script menu in the macOS manu bar")
