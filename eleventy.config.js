@@ -132,7 +132,7 @@ export const config = {
 	],
 
 	// Pre-process *.md files with: (default: `liquid`)
-	markdownTemplateEngine: '"default"',
+	markdownTemplateEngine: "njk",
 
 	// Pre-process *.html files with: (default: `liquid`)
 	htmlTemplateEngine: "njk",
