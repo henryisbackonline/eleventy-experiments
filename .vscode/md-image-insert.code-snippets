@@ -1,8 +1,8 @@
 {
     "Insert markdown image syntax": {
-        "prefix": "/img",
+        "prefix": "-img",
         "body": [
-            "![$2](./content/blog/_img/$1)",
+            "![$2](./img/$1)",
         ],
         "description": "Insert a markdown image string with the path autofilled to the eleventy assets folder"
     },	
