@@ -1,5 +1,8 @@
-# Unmounting drives en masse with AppleScript
-
+---
+title: Unmounting drives en masse with AppleScript
+tags: technology
+date: 2025-10-07
+---
 *I recently switched to using a Mac full-time. I wanted to escape from Windows and all the hassles that come with it, and I'll write about that soon, For now though, please enjoy this piece about a handy litte facet of macOS that makes my life a lot easier.*
 
 ---
