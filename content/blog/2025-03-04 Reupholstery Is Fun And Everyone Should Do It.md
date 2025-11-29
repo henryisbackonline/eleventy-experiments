@@ -1,9 +1,7 @@
 ---
 title: Reupholstery Is Fun And Everyone Should Do It
 tags: woodworking
-created: 2025-02-04
-published: 2025-03-04
-updated: 2025-03-22
+date: 2025-03-04
 ---
 
 The chairs that go with the dining table at my house are old. We’ve had them for over a decade, and the fabric and foam filling were both pretty degraded. They looked worn and a bit rough, and needed some work done to help them look their best. Thankfully, the timber frame of the chairs were fine, it was just the cushions that needed replacing.
