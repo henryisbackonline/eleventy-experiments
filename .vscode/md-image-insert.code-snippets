@@ -1,6 +1,6 @@
 {
     "Insert markdown image syntax": {
-        "prefix": "-img",
+        "prefix": "/img",
         "body": [
             "![$2](./img/$1)",
         ],
