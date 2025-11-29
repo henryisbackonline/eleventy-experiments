@@ -3,7 +3,7 @@
         "prefix": "/img",
         "body": [
             " ",
-            "![$2](./assets/images/$1)",
+            "![$2](./content/blog/img/$1)",
             " ",
             "$3"
         ],
