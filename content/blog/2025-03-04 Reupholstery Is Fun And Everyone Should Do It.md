@@ -9,7 +9,7 @@ The chairs that go with the dining table at my house are old. We’ve had them f
 
 To replace the cushions, the first step was to remove them from the chairs. This was quite easy - they were attached with a screw in each corner. 
 
-![[IMG_9470.jpg]]
+
 The old fully assembled chair compared to the same chair with the cushion removed
 
 After this, I had to disassemble the cushions themselves. They had quite a few layers:
