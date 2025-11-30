@@ -20,7 +20,7 @@ After this, I had to disassemble the cushions themselves. They had quite a few l
 - An underlayer for the base of the chair
 - A black fabric finish layer for the underside of the cushion
 
-![[IMG_9462.jpg]]
+![](IMG_9462.jpg)
 The layers of the cushion - black finish layer not pictured. 
 
 From these layers, I was able to determine the dimensions for all the materials I’d need. 
