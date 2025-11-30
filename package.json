@@ -5,10 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"build": "pnpm exec eleventy",
-		"start": "npx @11ty/eleventy --serve --quiet",
-		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
-		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
-		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
+		"start": "pnpm exec eleventy --serve --quiet"
 	},
 	"repository": {
 		"type": "git",
