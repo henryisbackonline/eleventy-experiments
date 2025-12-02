@@ -31,7 +31,7 @@ From these layers, I was able to determine the dimensions for all the materials 
 - 740x740mm upper underlayer fabric
 - My mum had already chosen the fabric she wanted for the top, so I used that. 
 
-![](IMG_9461.jpeg)
+![](IMG_9461.jpg)
 
 # Getting the materials
 
@@ -61,26 +61,31 @@ The foam squares on my dining table.
 
 1. I used the shape of the old plywood base as a template and traced the shape onto the new plywood squares, and cut those shapes out with a jigsaw. I also got the foam trimmed to the same shape because it was was an *absolute pain* to do at home.
 
-![](IMG_9485.jpeg)
-![](IMG_9486.jpeg)
-![](IMG_9487.jpeg)
+![](IMG_9485.jpg)
+
+![](IMG_9486.jpg)
+
+![](IMG_9487.jpg)
+
 The foam wasn’t *exactly* the same shape because there had to be some overhang on the front of the chair the I could pull down over the front of the cushion to provide padding for people’s legs.
 
 2. I then glued the foam to the plywood with spray adhesive, making sure to align the back edge of the foam to the back edge of the plywood.
 
-![](IMG_9488.jpeg)
-![](IMG_9489.jpeg)
+![](IMG_9488.jpg)
+
+![](IMG_9489.jpg)
 
 3. After leaving the cushions to dry overnight, I stapled the first underlayer on. This was the underlayer for the top, and was the one that would provide the most tension on the foam.
 	- Unfortunately, I cut the fabric slightly too small here. I probably could have done with an extra 20mm on each side, but I made it work. The tension of the foam was higher this way anyway, so probably a good thing ultimately.
 
-![](IMG_9504.jpeg)
+![](IMG_9504.jpg)
 
 4. After this I stapled on the lower underlayer. This went on much more easily, as its main job was to be a padding layer for the black finish layer. I had to stretch it to get a bit of tension (again, probably could have cut the fabric larger), but it went on well.
 	- *Note: everyone should buy an Arrow T-50 staple gun*
 
-![](IMG_9643.jpeg)
-![](IMG_9513.jpeg)
+![](IMG_9643.jpg)
+
+![](IMG_9513.jpg)
 
 5. I installed the top layer for the cushion after that, and completely forgot to take any photos of it. This was the fabric that my mum bought, and it looked beautiful.
 
@@ -92,5 +97,6 @@ After doing the process above *seven more times*, the cushions were finished. I 
 
 Compared to the older worn-out fabric, I think these look great. They’re also much more comfortable thanks to the thicker foam cushion.
 
-![](IMG_9499.jpeg)
-![](IMG_9500.jpeg)
+![](IMG_9499.jpg)
+
+![](IMG_9500.jpg)
