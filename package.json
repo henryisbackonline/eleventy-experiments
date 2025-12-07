@@ -6,6 +6,7 @@
 	"scripts": {
 		"build": "pnpm exec eleventy",
 		"make": "pnpm exec eleventy",
+		"b": "pnpm exec eleventy",
 		"start": "pnpm exec eleventy --serve --quiet",
 		"serve": "pnpm exec eleventy --serve --quiet"
 	},
