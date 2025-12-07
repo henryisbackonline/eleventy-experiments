@@ -5,7 +5,10 @@
 	"type": "module",
 	"scripts": {
 		"build": "pnpm exec eleventy",
-		"start": "pnpm exec eleventy --serve --quiet"
+		"make": "pnpm exec eleventy",
+		"exec": "pnpm exec eleventy",
+		"start": "pnpm exec eleventy --serve --quiet",
+		"serve": "pnpm exec eleventy --serve --quiet"
 	},
 	"repository": {
 		"type": "git",
