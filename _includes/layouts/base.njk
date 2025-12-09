@@ -22,12 +22,12 @@
 		#}
 
 		{#- Add CSS to the bundle #}
-		<style>
-
-		</style>
+		{# <style></style> #}
 
 		{#- Add the contents of a file to the bundle #}
-		<style>{% include "css/index.css" %}</style>
+		<style>
+			{% include "css/index.css" %}
+		</style>
 
 		{#- Render the CSS bundle using inlined CSS (for the fastest site performance in production) #}
 		<style>{% getBundle "css" %}</style>
