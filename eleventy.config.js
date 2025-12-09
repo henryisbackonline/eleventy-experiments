@@ -88,7 +88,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		// Output formats for each image.
 		// One highly compatible format (like WebP) improves build time dramatically.
-		formats: ["webp"],
+		formats: ["png"],
 
 		// Fixed smaller widths for each image imporve build time dramatically.
 		widths: [1200],
