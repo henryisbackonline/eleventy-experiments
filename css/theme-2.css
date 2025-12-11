@@ -84,6 +84,8 @@
 		--text-color-link-visited: #a6a6f8;
 
 		--background-color: #222222;
+
+		--syntax-tab-size: 2;
 	}
 }
 
