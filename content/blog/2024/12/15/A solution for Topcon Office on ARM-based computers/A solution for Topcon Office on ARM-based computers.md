@@ -22,7 +22,7 @@ During the install process, I saw that the Topcon Office installer was attemptin
 
 The solution was simple in the end: just manually download and install [the C++ Redistributable that has been written and compiled for ARM](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (called ARM64 in Microsoft’s documentation) and hope that the Topcon Office installer sees the C++ Redistributable that’s already installed and doesn’t attempt to install the x86 version instead. After installing the ARM Redistributable package, I ran the Topcon Office installer again, and it worked flawlessly. It detected that a C++ Redistributable package was already installed and carried on without trying to download anything else. The rest of the CAD package was perfectly supported by the Prism emulation layer and was operating entirely as normal. 
 
-- - - - 
+- - -
 
 **TL;DR:** The issue was that Topcon Office called for the Microsoft Visual C++ Redistributable to be installed but was attempting to install and run the x86 version, which does not work on ARM-based Windows laptops. To rectify this, I installed [the C++ Redistributable that has been written and compiled for ARM](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (called ARM64 in Microsoft’s documentation) and ran the installer again. There were no problems after that, and the rest of the CAD package operated perfectly.
 
