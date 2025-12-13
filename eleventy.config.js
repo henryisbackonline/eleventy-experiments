@@ -45,12 +45,12 @@ export default async function(eleventyConfig) {
 	});
 
 	// Bundle <script> content and adds a {% js %} paired shortcode
-	// eleventyConfig.addBundle("js", {
-	// 	toFileDirectory: "dist",
-	// 	// Add all <script> content to the `js` bundle (use <script eleventy:ignore> to opt-out)
-	// 	// Supported selectors: https://www.npmjs.com/package/posthtml-match-helper
-	// 	bundleHtmlContentFromSelector: "script",
-	// });
+	eleventyConfig.addBundle("js", {
+		toFileDirectory: "dist",
+		// Add all <script> content to the `js` bundle (use <script eleventy:ignore> to opt-out)
+		// Supported selectors: https://www.npmjs.com/package/posthtml-match-helper
+		bundleHtmlContentFromSelector: "script",
+	});
 
 	// Official plugins
 	eleventyConfig.addPlugin(pluginSyntaxHighlight, {
