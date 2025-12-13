@@ -1,0 +1,27 @@
+:root {
+    --bg-color: #eeeeee;
+    --text-color: #1a1a1a;
+
+    --font-body: serif;
+    --font-heading: sans-serif;
+    --font-code: monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    color: var(--text-color);
+}
+
+p {
+    font-family: var(--font-body);
+    color: var(--text-color);
+}
+
+code {
+    font-family: var(--font-code);
+    color: var(--text-color);
+}
+
+body {
+    color: var(--bg-color);
+}
