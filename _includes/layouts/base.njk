@@ -7,7 +7,6 @@
 		<meta name="description" content="{{ description or metadata.description }}">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 		<meta name="generator" content="{{ eleventy.generator }}">
-
 		{# Add stylesheet by link #}
 		{#-
 		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
@@ -17,12 +16,9 @@
 		2. Or for JavaScript:
 			* Add to a per-page bundle using `{% js %}{% endjs %}`
 			* Retrieve via `{% getBundle "js" %}` or `{% getBundleFileUrl "js" %}`
-		3. Learn more: https://github.com/11ty/eleventy-plugin-bundle
-		#}
-
+		3. Learn more: https://github.com/11ty/eleventy-plugin-bundle #}
 		{#- Add CSS to the bundle #}
 		{# <style></style> #}
-
 		{#- Add the contents of a file to the bundle #}
 		<style>
 		{% include "css/index.css" %}
@@ -40,8 +36,6 @@
 		{# <script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script> #}
 	</head>
 	<body>
-		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
-
 		<header>
 			<a href="/" class="home-link">{{ metadata.title }}</a>
 

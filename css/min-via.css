@@ -10,6 +10,7 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-heading);
     color: var(--text-color);
+    line-height: 1.2;
 }
 
 p {
@@ -23,5 +24,12 @@ code {
 }
 
 body {
+    margin: 40em
+    auto;
+    max-width: 80ch;
+    line-height: 1.6;
+    font-size: 16pt;
     color: var(--bg-color);
+    padding: 0
+    10px;
 }
