@@ -7,7 +7,6 @@
 		"serve": "pnpm exec eleventy --serve --quiet",
     	"start": "pnpm exec eleventy --serve --quiet",
     	"build": "pnpm exec eleventy"
-		
 	},
 	"repository": {
 		"type": "git",
