@@ -104,9 +104,6 @@ export default async function(eleventyConfig) {
 		},
 	});
 
-	// Filters
-	eleventyConfig.addPlugin(pluginFilters);
-
 	eleventyConfig.addPlugin(IdAttributePlugin, {
 		// by default we use Eleventy’s built-in `slugify` filter:
 		// slugify: eleventyConfig.getFilter("slugify"),
