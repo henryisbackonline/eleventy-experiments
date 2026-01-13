@@ -1,9 +1,0 @@
-{
-    "Insert markdown image syntax": {
-        "prefix": "/img",
-        "body": [
-            "![$2]($1)",
-        ],
-        "description": "Insert a markdown image string. ![alt text here](image path here)"
-    },	
-}
